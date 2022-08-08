@@ -42,8 +42,8 @@
     {
         "id" : "6",
         "title": "Classificação do Campeonato Brasileiro Feminino 2022",
-        "secText": "Confira a classificação do sei time.",
-        "image": "https://github.com/Gabri8ell/Api-news_utebolFeminino/blob/main/image/futebol-feminino.png",
+        "secText": "Confira a classificação do seu time.",
+        "image": "https://github.com/Gabri8ell/Api-news_utebolFeminino/blob/main/image/futebol-feminino.webp?raw=true",
         "link": "https://www.meutimao.com.br/tabela-de-classificacao/campeonato_brasileiro_feminino/"
     },
     
