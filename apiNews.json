@@ -85,5 +85,13 @@
         "secText": "Entidades também vão organizar torneio conjunto de futsal na Argentina; veja mais detalhes",
         "image": "https://s2.glbimg.com/GHrURTzsBDGZ6_rWCCEdCDqF2RQ=/0x0:679x453/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/R/q/Mqco4UTle1v3wYvE3mag/fl-mil8xeamhtgj.jpg",
         "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/02/conmebol-e-uefa-anunciam-versao-feminina-da-finalissima-e-intercontinental-sub-20.ghtml"
+    },
+    
+    {
+        "id" : "12",
+        "title": "Corinthians encerra primeira fase do Brasileirão Feminino com melhor defesa e segundo melhor ataque",
+        "secText": "Corinthians Feminino foi a equipe com menos gols sofridos na primeira fase do Brasileirão 2022",
+        "image": "https://cdn.meutimao.com.br/_upload/noticia/2022/08/07/corinthians-feminino-foi-a-equipe-com-menos-gols-ea941w.jpg",
+        "link": "https://www.meutimao.com.br/noticias-do-corinthians/424059/corinthians-encerra-primeira-fase-do-brasileirao-feminino-com-melhor-defesa-e-segundo-melhor-ataque"
     }
 ]
